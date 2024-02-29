@@ -1,0 +1,658 @@
+commit 0ba4994d575cd0bf4d15cb3212af3df1eaf0d69f
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 21:02:45 2023 +0300
+
+    fix DegreeInspectorTest
+
+commit dcec14176b09fc4e3776ace3653a8f3352355405
+Merge: fe579e0 2884dc2
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 20:40:36 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit fe579e0912ded2f7ada258bf25458b21dd2898f9
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 20:40:30 2023 +0300
+
+    pdf document
+
+commit 2884dc2e4438f6167f70932c45dac767e860b10f
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Fri Apr 28 20:39:11 2023 +0300
+
+    Small changes
+
+commit 33a90958d9944f725d901a0712eaef376b591f20
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 20:03:33 2023 +0300
+
+    delete extra file
+
+commit 81cb2601a50991bc0977037d6d3f0c72217bed92
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 20:01:35 2023 +0300
+
+    fix bug with anydegreemodulecheckbox
+
+commit 028e4617db976aa81d24b5de0a86b007b6eac44d
+Merge: c440d5d 7fa68c0
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Fri Apr 28 18:10:06 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit c440d5ddafcda0c9fde6526b0ca53f157ee6c640
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Fri Apr 28 18:09:54 2023 +0300
+
+    Add tests for LoginDialogTest
+
+commit 7fa68c04882cb898a77672edfc4747ac00a4cd4b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 17:21:10 2023 +0300
+
+    another minor fix
+
+commit 6642b05595539bcca60dbc0c84ea4f67d1af9c8c
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 06:31:25 2023 +0300
+
+    minor fix
+
+commit 8944781f76a7e3d015e3da18fbfe629caf2fd0a3
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 06:30:03 2023 +0300
+
+    add proper handlers for AnyModuleRule and AnyCourseUnitRule
+
+commit 6a54b670361ce3599341d367109cbfc744d47268
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Fri Apr 28 04:19:08 2023 +0300
+
+    refactor, tests, documentation
+
+commit 75e63128b8c67b05eb3475a3804e4b167bcc95af
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 27 21:38:26 2023 +0300
+
+    documentation and testfx
+
+commit feb027fca038bbd78613e9d07f30b64e1503eafc
+Merge: 37c5389 f50f7e2
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Thu Apr 27 15:46:55 2023 +0300
+
+    Add jdocs
+
+commit 37c5389199a9342d318704b710166e6e8bfa194a
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Thu Apr 27 14:34:27 2023 +0300
+
+    Add jdocs
+
+commit f50f7e2da05bd3cae2ec813ae4c998d9b599e54b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 27 00:49:52 2023 +0300
+
+    fix typo
+
+commit c76f0c9b9464d7abba3c3de3b8974a9bae921441
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 27 00:49:03 2023 +0300
+
+    add a comment on DegreeInspector
+
+commit 6f318dac8c0e0143426b009aa6f413790ca5ffa4
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 27 00:39:58 2023 +0300
+
+    set min width for degreeselector labels
+
+commit c402096878aae567d3efca15934b5c1634f42843
+Merge: f8c5228 c728329
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 27 00:15:26 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit c7283293c1477a1c33d966f2fc46a7651ae9ebe7
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Thu Apr 27 00:14:55 2023 +0300
+
+    Add methods in StudentInfoView
+
+commit f8c5228b41ace77321474204fb5f9af8057a53a0
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 27 00:14:21 2023 +0300
+
+    documentation for Rule and all of its subclasses
+
+commit bda01a5e54323418cb762ad12b0254c5474fa9a0
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 26 23:46:03 2023 +0300
+
+    combine createStudentJson and updateStudentJson and move to Student class, documentation
+
+commit 53400c702bbb0fbe15022aba2a68129939b2251a
+Merge: b1affb7 b72c01b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 26 20:49:49 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit b72c01bfc8d9e73355a4850dedc1b87297aba07c
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Wed Apr 26 20:48:41 2023 +0300
+
+    Change StudentInfoView layout
+
+commit b1affb7f7de7f28e446cea4a9b6eafb5830286e2
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 26 20:48:11 2023 +0300
+
+    document & refactor
+
+commit d75b008d90f54a61f1c9eeaa7c6f94a5ece9764e
+Merge: bd337ef 25f018e
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Mon Apr 24 20:32:21 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit 25f018ec0013212ed6730c424cd123f5a4fc0cef
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Mon Apr 24 20:32:05 2023 +0300
+
+    fix setting new degree not resetting student values
+
+commit bd337ef04dfd17d20afef7adc84dfb23ab2f0568
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Mon Apr 24 20:28:08 2023 +0300
+
+    Clean LoginDialog
+
+commit 9fea518ee9375f139a27bda67542599896e5ef3d
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Mon Apr 24 20:27:35 2023 +0300
+
+    minor fix
+
+commit 6eedc254c45e769a64baf4ae813f18c1469dfbac
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Mon Apr 24 20:22:24 2023 +0300
+
+    minor fix after merge
+
+commit a97fc0558a62cc9a3a955e7f22685217a15ea854
+Merge: 3302131 dd53d85
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Mon Apr 24 20:20:10 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit 33021318e9df22f3f17d901dacfeb7ddf5880c08
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Mon Apr 24 20:19:55 2023 +0300
+
+    combine the parts to make a functioning program
+
+commit dd53d85854d7832308ba645acd5dd5c387bb34c5
+Merge: 31ce288 9c35fdd
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Mon Apr 24 14:24:33 2023 +0300
+
+    Add LoginDialogTest
+
+commit 31ce2887cd8bf571ca20830963f5da361a30b6fd
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Mon Apr 24 13:00:01 2023 +0300
+
+    Add LoginDialogTest
+
+commit 9c35fddc63e16f985d54a2538b97e050f6524446
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sun Apr 23 21:58:48 2023 +0300
+
+    delete RuleAdapter
+
+commit 5e79ed915fdac974a22b2eceb4fa539eabbd7819
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sun Apr 23 21:56:57 2023 +0300
+
+    add marking courses completed
+
+commit 436ad45c4e531de24df08c52afb92fd8c20cd987
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Sun Apr 23 14:42:36 2023 +0300
+
+    Combine dialog classes
+
+commit e35f64a459c173c1467aaa819e7051889307ffed
+Merge: 0a13c0d 0758ae0
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Fri Apr 21 12:27:39 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit 0a13c0da39fd9ee10bf53cf7895dc9cd94226fff
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Fri Apr 21 12:27:30 2023 +0300
+
+    Add methods for dialog buttons
+
+commit 0758ae0f76962fd2aed764f206ed4454a337e1b2
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 20 20:59:55 2023 +0300
+
+    add gson adapter for abstract classes
+
+commit 8bf7d0cf65041c9cdac9397dc56bb8d22814d094
+Merge: 77154f4 9db2d70
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 20 19:57:55 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit 77154f42da60298b837af9396d110012ee225ed6
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 20 19:57:50 2023 +0300
+
+    pre-pull commit
+
+commit 9db2d703e7893e7328a70bc1a856197536f4aa0e
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Thu Apr 20 19:41:09 2023 +0300
+
+    Add logindialog and studentdialog classes
+
+commit da3995caee00741ee27ec16c6761bd5f5197dac6
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 20 15:22:06 2023 +0300
+
+    add documentation for SisuAPIExtractor
+
+commit eebcbc74a598191e2dd046141da018a749593ec6
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 20 15:09:47 2023 +0300
+
+    add Module to hierarchy, refactoring, documentation for DegreeModule
+
+commit 0576c6884364ca6a6d8c60572666623ce2184b15
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 20 13:47:51 2023 +0300
+
+    documentation for DegreeProgramme, StudyModule, GroupingModule
+
+commit 2b76653b9b692958951c478480010c739408a672
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 20 13:37:26 2023 +0300
+
+    documentation for Course
+
+commit 6d4eba2cbfd029af98f3f392efefe0d27daf27df
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Thu Apr 20 12:49:07 2023 +0300
+
+    Add SisuTest TextFX class
+
+commit 9fa07cb90cbdfe60d93bdacc5dd77666e01384d4
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 19 22:10:05 2023 +0300
+
+    -
+
+commit 18599aee4db52169972e4f12624cb91e18cb5298
+Merge: 6c9360c f9ce19e
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Wed Apr 19 16:26:22 2023 +0300
+
+    git conflicts
+
+commit 6c9360cb6a59e66a8450247e75edc65ce76c7f15
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Wed Apr 19 16:24:08 2023 +0300
+
+    Add SisuTest class
+
+commit f9ce19e9c611ccf55e05c5858b9097f00748853c
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 19 16:21:02 2023 +0300
+
+    save student selections to JSON
+
+commit b38eecdaf01724f4bb82883557235fe4d81909f3
+Merge: 4d93389 2285dc3
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 19 15:53:25 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit 4d93389f6d04f729dfdf2b80c2ae99412cbda2ee
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 19 15:53:21 2023 +0300
+
+    add selected modules to class
+
+commit 2285dc359cf020bdba4ea2b1ef22a938a61d2d56
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Wed Apr 19 10:41:01 2023 +0300
+
+    Add folder creator for jsons and error checks
+
+commit 8bb4c6677a658efc1f94f486e4fc0b1b7400285f
+Merge: b6d5e24 383ff43
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Tue Apr 18 19:36:05 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit b6d5e240292bd6b73ae270ec35cc2d215a5a86d2
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Tue Apr 18 19:35:47 2023 +0300
+
+    Add Json creator
+
+commit 383ff4339ffa08034b4e314ecbe2f4322397ffb5
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Tue Apr 18 19:34:25 2023 +0300
+
+    id test
+
+commit 44c64f5cbd90a18fa5ea2f05265690e6b16311f1
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Tue Apr 18 01:17:41 2023 +0300
+
+    first draft of rule system displayed in GUI
+
+commit 58c06ccf85edae3c9becad5327104239a070d0e2
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sun Apr 16 17:45:46 2023 +0300
+
+    create a rule systen for modules
+
+commit f8c4f79d38207e8b884e9fc17767702de5184d73
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 15 21:52:11 2023 +0300
+
+    start work on degree selector
+
+commit ed2209c695725d40c9ad134343b67bd347d33acf
+Merge: 4dc5f96 0901590
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Sat Apr 15 17:54:58 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit 4dc5f9608cba5a0704257b11812a3e178867fd78
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Sat Apr 15 17:52:32 2023 +0300
+
+    add buttons to dialog
+
+commit 0901590974cbafefe1bdbdfd06346dc09c46551b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 15 17:08:10 2023 +0300
+
+    add preloading to DegreeInpector
+
+commit 4c38f82f8827b27a25e7a5ee29728c54e915d6c8
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 15 13:27:35 2023 +0300
+
+    improve responsiveness of DegreeInspector
+
+commit b9c78e9beec2112cb7a6612c414049c525d82eb7
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Thu Apr 13 17:18:26 2023 +0300
+
+    first working version of DegreeInspector
+
+commit 89c8e1fcf5dcad536176ec84bd2bc00b1d62582b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 12 23:46:45 2023 +0300
+
+    make all modules + Course use new version of DegreeProgramme and finish their minimum implementation
+
+commit 8447ff6572447fd1d3add136f258829a36c65952
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 12 15:30:58 2023 +0300
+
+    cleanup after merge
+
+commit c287ff12362127990a5b138a652687d96278ca4b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Wed Apr 12 15:29:10 2023 +0300
+
+    minor refactor
+
+commit 317180b38f61c1ecefe133bddae9b884e4e59843
+Merge: 027b6ed 1751c8b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Tue Apr 11 21:26:19 2023 +0300
+
+    Merge branch 'main' into uitestbranch
+
+commit 1751c8bbda634941954f960baa2a69f3f8d705a7
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Tue Apr 11 21:26:04 2023 +0300
+
+    add tests for SisuAPIExtractor
+
+commit 027b6edaff1e116b2b49a9b666e0ffad191f27fa
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Tue Apr 11 20:27:58 2023 +0300
+
+    minor refactor
+
+commit f7c21a139820402e1bdf0baef630fa25ea9eb986
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Tue Apr 11 15:33:39 2023 +0300
+
+    fix errors in Course, StudyModule, and SisuAPIExtractor + groundwork on DegreeInspector
+
+commit 002c78913e1615684cec5c40c348efab89fe99c7
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Tue Apr 11 14:15:40 2023 +0300
+
+    add more content to courseinfowindow
+
+commit 82de6862e8d70ece7ace1cdfa306b3450a32c4de
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sun Apr 9 19:09:49 2023 +0300
+
+    experiment with webview
+
+commit f615368ef20204e61419dcd61d1fc8c576c9ea8b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 19:03:48 2023 +0300
+
+    small fix to Student
+
+commit fcbcbd8aa9d8daf1ee1e7220a2066ef521d52006
+Merge: e73fba2 4c2c81f
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 19:00:35 2023 +0300
+
+    fix conflicts
+
+commit e73fba2ca1f7a9d7b804fddd638929c5fbe7c822
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 18:54:01 2023 +0300
+
+    removed unnecessary stuff that came with a merge
+
+commit 350dd88f024816b8208a087fe3158cbe744fcfc7
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 18:50:11 2023 +0300
+
+    added HTML parsing to course
+
+commit 4c2c81f7608b82dc6d9d0cd17875bc9e014448de
+Merge: d87bde0 220b14b
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 18:43:18 2023 +0300
+
+    Merge branch 'main' of https://course-gitlab.tuni.fi/compcs140-spring2023/group2756
+
+commit d87bde005d99c6ab177e7907fdd51d0d398af78e
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 18:42:23 2023 +0300
+
+    Add GroupingModule
+
+commit 220b14b5418d45e059aeb22a30f01667a8b88939
+Merge: df47145 0f42e0a
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Sat Apr 8 18:34:58 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756
+
+commit df47145998ac9dea186b3d0c7f7511e12c0b5d5b
+Author: Miro Anttila <miro.anttila@tuni.fi>
+Date:   Sat Apr 8 18:31:08 2023 +0300
+
+    Add first version of settings window
+
+commit 0f42e0a9af1e8dab7c07ed9d6eafc1d194d68b8a
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 18:14:07 2023 +0300
+
+    Add parsing from Json to DegreeProgramme
+
+commit 3830787dfa7ecdd82d369aa0559407d8bf9a40c1
+Merge: ea59f32 2fb6b47
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 18:02:41 2023 +0300
+
+    Merge branch 'Studymodule' of course-gitlab.tuni.fi:compcs140-spring2023/group2756 into uitestbranch
+
+commit ea59f32a79be60b9d34662d6731aa4a011bd2b6a
+Merge: 956d7bc d8500ec
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 18:00:57 2023 +0300
+
+    Merge branch 'StudyModule' of course-gitlab.tuni.fi:compcs140-spring2023/group2756 into uitestbranch
+
+commit 956d7bc53c1f65d4c6ca2d2c2b7968e96abe4946
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 17:59:42 2023 +0300
+
+    created a window for displaying course info
+
+commit 2fb6b471d3d18850e053a79e8c9b8d0f67ac2be8
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 17:58:42 2023 +0300
+
+    Make StudyModule extend DegreeModule
+
+commit d8500ec5217c66287adcd3b409dd47128f09be69
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 17:36:51 2023 +0300
+
+    Create parsing from Json to StudyModule
+
+commit 27fe1a58f5c2bbd37e024adc9cae613c90163a77
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 17:06:05 2023 +0300
+
+    Add test for Course
+
+commit 88d0de4978c18e0b8a316a5925e4aa5102634301
+Merge: f673633 4eabdaf
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 16:59:28 2023 +0300
+
+    Merge branch 'Course' of course-gitlab.tuni.fi:compcs140-spring2023/group2756 into uitestbranch
+
+commit f6736336147f89fc04f233c100f9d2bb3fdf93ab
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 16:57:01 2023 +0300
+
+    added StudentInfoView gui element
+
+commit 4eabdaf58a693a862a940884c1b08c149152e748
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 16:54:36 2023 +0300
+
+    Create parsing from JSON for courses
+
+commit 7bb1f098409ae568c741e3fd284f29f5ff4ba2c4
+Merge: 7668115 83a846f
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 16:42:40 2023 +0300
+
+    Merge branch 'main' into uitestbranch
+
+commit 83a846fccb1565fa6f12462d631a4ed99cce5e3b
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 15:53:06 2023 +0300
+
+    merge + small edit to Student
+
+commit 7f20f696c356ca3919c30082f5ea620fe92acd1c
+Merge: 9d9bcdf 9cf9f3a
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 15:45:24 2023 +0300
+
+    Merge branch 'main' of course-gitlab.tuni.fi:compcs140-spring2023/group2756 into student
+
+commit 9d9bcdf84781f7e4dcdff6dc68f9005d5a81495a
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 15:43:43 2023 +0300
+
+    created a class for storing student info
+
+commit 9cf9f3aa4f1bc27337e84eb0d0785046f5e1cd61
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 15:40:22 2023 +0300
+
+    Commit first draft of Course
+
+commit 8453c20b475d9b174c03515591cce92aa2ccc79f
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 15:36:20 2023 +0300
+
+    Commit first draft of StudyModule
+
+commit f13ba9fe3cb6c4c192491ea3a001f5dbf836f8c3
+Author: Hiski <hiski.hamalainen@outlook.com>
+Date:   Sat Apr 8 15:17:04 2023 +0300
+
+    Commit first draft of DegreeProgramme
+
+commit 7668115b548cec810cd361f9a60f2fc2828d41f3
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 15:16:31 2023 +0300
+
+    started creating a new UI element for viewing degree structure
+
+commit 4e5efc4417864317099737483a5a807578528abf
+Author: Akseli Epailys <akseli.epailys@hotmail.com>
+Date:   Sat Apr 8 13:26:03 2023 +0300
+
+    created a class for extracting data from the Sisu API
+
+commit 2f50fd366a5cfc0a92ca3535f03ca09a2ccc484b
+Author: Jorma Laurikkala <jorma.laurikkala@tuni.fi>
+Date:   Mon Mar 27 07:45:26 2023 +0300
+
+    The public modifier to the interface methods to ease copy and paste.
+
+commit eb73f208b4de4c876e8e48289b7f6af063f6c15e
+Author: Mika Saari <mika.saari@tuni.fi>
+Date:   Thu Mar 23 10:25:19 2023 +0200
+
+    generalization of exceptions
+
+commit 2016499bbb0d7e1d5e21917c9f4f5c6b71e0c4ba
+Author: Jorma Laurikkala <jorma.laurikkala@tuni.fi>
+Date:   Wed Mar 22 20:07:22 2023 +0200
+
+    README.md updated. Everything else as it was.
+
+commit 815b6733d73081bd21aef1faefcf7833993ee015
+Author: repolainen <repolainen-test@tut.fi>
+Date:   Fri Jan 20 14:01:19 2023 +0200
+
+    Template repository initialization
