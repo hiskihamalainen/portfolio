@@ -1,6 +1,4 @@
 """
-COMP.CS.100 Rojekti Bussikuski
-
 A program for a drinking game called "Bussikuski".
 """
 
