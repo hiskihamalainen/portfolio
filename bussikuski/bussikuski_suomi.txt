@@ -1,0 +1,31 @@
+Pelin säännöt: 
+
+Jokaiselle pelaajalle jaetaan kuusi (6) korttia.
+Vuorolla korttipyramidista kääntyy alimmaisena oleva kortti.
+Jos pelaajalla on kädessään yksi tai useampi samaa arvoa oleva 
+kortti saa hän jakaa korttien lukumäärästä riippuen vastapelaajille
+hörppyjä. Peli antaa jaettavien huikkien lukumäärän tekstikenttään.
+Jos huikka jaetaan, täytyy pelaajan kortti kääntää ylösalaisin,
+eikä sitä voida käyttää uudestaan. Peliä pelataan, kunnes pyramidin 
+viimeinenkin kortti on kääntynyt. Kierroksen “voittaa” pelaaja, jolla
+on kädessään eniten kortteja jäljellä. Tämä pelaaja joutuu bussikuskiksi. 
+
+Tasapelin sattuessa:
+
+Jos peli päättyy tasapeliin kahden tai useamman pelaajan kesken, "voittaja" 
+arvotaan pelin ohjeistaen seuraavasti. Pelaajien jäljelle jääneet kortit 
+jäävät heidän käsiinsä, loput sekoitetaan pakkaan. Pakasta käännetään yksi kerrallaan
+kortti. Jos pelaajalla on hallussa pakasta kääntyvä kortti, hän voi kääntää oman 
+korttinsa ylösalaisin. "Voittaja" on se pelaaja, jolle jää yksiselitteisesti 
+eniten kortteja käteen. Jos yksiselitteistä voittajaa ei löydy, korttien
+nostamista jatketaan. Pelaaja kenelle jää eniten kortteja käteen joutuu 
+bussikuskiksi. Jos "voittajaa" ei löydy, peli arpoo sattumanvaraisen voittajan.
+ 
+Bussikuski: 
+
+Pyramidi kasataan uudelleen. Bussikuski avaa yhden kortin jokaiselta
+riviltä, kunnes vastaan tulee kuvakortti. Kuvakorttiin osuessa bussikuski
+joutuu juomaan tekstikenttään ilmoitetun määrän verran hörppyjä ja aloittamaan 
+kierroksen uudelleen täytetyltä pöydältä. Pelaaja pääsee bussikuskin roolista 
+ulos, kun hän pääsee pyramidin huipulle osumatta kuvakorttiin. Tämän jälkeen 
+pelaajat voivat aloittaa kierroksen alusta. 

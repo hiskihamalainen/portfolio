@@ -1,0 +1,30 @@
+Instructions: 
+
+Six (6) cards are dealt to each player. On each turn, one card
+turns around from a card pyramid. If a player has one or more 
+cards of the same value in his hand, he may give a chug to 
+his opponents. The number chugs given is shown on the text 
+field. The game is played until every card in the pyramid is turned 
+around. The player with the most cards left “wins” the round and becomes 
+the bus driver. 
+
+In case of a tie: 
+
+If the game ends in a tie between two or more players, the "winner" 
+will be drawn as instructed. Remaining cards from players remain in 
+their hands, the rest is mixed into the deck. If the player has
+a card with same value as drawn from a deck of cards, he can turn his 
+own card upside down. "Winner" is the player who has the most cards left
+in their hand after turning the card. Players will continue drawing cards 
+from the deck until there is no unambiguous “winner”. The player with the 
+most cards left becomes the bus driver. If no "winner" can be decided this way,
+the game chooses a random winner.
+ 
+Bus driver: 
+
+The pyramid is reassembled. The bus driver turns one card from each row until 
+a picture card is revealed. If a picture card is revealed, the bus driver 
+has to take the shown amount of chugs and start the round again from the start. 
+The player gets out of the role of the bus driver when he gets to the top of the 
+pyramid without hitting a picture card. Players can then start the round from 
+the beginning.
