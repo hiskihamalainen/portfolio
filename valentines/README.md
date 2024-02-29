@@ -1,0 +1,1 @@
+In the folder, run npm install, then npm run dev
